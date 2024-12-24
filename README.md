@@ -1,7 +1,7 @@
 ### Hi, i'm lucca and this is my github profile.
 
 - 👨‍🎓Atualmente estou cursando analise e desenvolvimento de sistemas.
-- 😎Estou tambem estudando principalmente css e html 
+- 😎Estou tambem estudando principalmente css, html e js
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" 
