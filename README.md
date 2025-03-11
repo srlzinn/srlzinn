@@ -6,36 +6,44 @@
 
 ## 🎯 Sobre mim  
 
-- 💡 Apaixonado por tecnologia e programação.  
+- 💡 Apaixonado por tecnologia e desenvolvimento de software.  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.  
-- 🚀 Buscando evoluir como **Desenvolvedor Backend**.  
-- 📚 Atualmente focado em **Python, Java, Banco de Dados e Desenvolvimento Web**.  
+- 🚀 Buscando me especializar como **Desenvolvedor Backend**.  
+- 📚 Atualmente focado em **Java, Python, JavaScript, HTML, CSS e MySQL**.  
 
 ---
 
-## 🏆 Objetivos  
-
-✔️ Aprimorar habilidades em **Dart & Flutter**.  
-✔️ Criar projetos práticos para consolidar conhecimento.  
-✔️ Aprender **Arquitetura de Software & Banco de Dados**.  
-✔️ Conseguir um estágio em **Desenvolvimento de Software**.  
-
----
-
-## 🚀 Tecnologias & Ferramentas  
+## 🚀 Tecnologias que estudo  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,dart,flutter,mysql,sqlite,git,github,linux,vscode,postman&perline=7" />
-</div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  </a>
+</div>  
 
 ---
 
-## 📌 Meus projetos em destaque  
+## 📌 Projetos em destaque  
 
-### 🔹 [📂 Nome do Projeto 1](https://github.com/seu-repo)
+### 🔹 [📂 Projeto 1](https://github.com/seu-repo)
 > 🔹 Pequena descrição do projeto  
 
-### 🔹 [📂 Nome do Projeto 2](https://github.com/seu-repo)
+### 🔹 [📂 Projeto 2](https://github.com/seu-repo)
 > 🔹 Pequena descrição do projeto  
 
 📍 Veja mais no meu repositório 👉 [Meus projetos](https://github.com/srlzinn?tab=repositories)  
@@ -46,7 +54,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srlzinn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srlzinn&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srlzinn&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 📈 **Níveis de contribuição:**  
