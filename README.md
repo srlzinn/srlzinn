@@ -9,7 +9,7 @@
 - 💡 Apaixonado por tecnologia e desenvolvimento de software.  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.  
 - 🚀 Buscando me especializar como **Desenvolvedor Backend**.  
-- 📚 Atualmente focado em **Java, Python, JavaScript, HTML, CSS e MySQL**.  
+- 📚 Atualmente focado em **Python**.  
 
 ---
 
