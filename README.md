@@ -44,11 +44,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srlzinn&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
-📈 **Níveis de contribuição:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srlzinn&theme=dracula)  
-
----
-
 ## 📬 Contato & Redes Sociais  
 
 <div align="center">
