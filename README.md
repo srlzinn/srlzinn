@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Sobre mim  
+Sobre mim  
 
 - 💡 Apaixonado por tecnologia e desenvolvimento de software.  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Tecnologias que estudo  
+Tecnologias que estudo  
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -37,14 +37,14 @@
 </div>  
 
 
-## 📊 Estatísticas do GitHub  
+Estatísticas do GitHub  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srlzinn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srlzinn&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
-## 📬 Contato & Redes Sociais  
+Contato & Redes Sociais  
 
 <div align="center">
   <a href="https://www.instagram.com/calu_zin/" target="_blank" rel="noopener noreferrer">
