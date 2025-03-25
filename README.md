@@ -4,53 +4,33 @@
 
 ---
 
-## 🎯 Sobre mim  
+## 🎯 Sobre Mim
 
-- 💡 Apaixonado por tecnologia e desenvolvimento de software.  
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.  
-- 🚀 Buscando me especializar como **Desenvolvedor Backend**.  
-- 📚 Atualmente focado em **Python**.  
+- 💡 Apaixonado por tecnologia e desenvolvimento de software.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 🚀 Buscando me especializar como **Desenvolvedor Backend**.
+- 🐍 Atualmente focado em **Python** e **desenvolvimento de APIs**.
 
 ---
 
-## 🚀 Tecnologias que estudo  
+## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-</div>  
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,docker" />
+</div>
 
 ---
 
-## 📌 Projetos em destaque  
+## 📌 Projetos Destacados
 
-### 🔹 [📂 Projeto 1](https://github.com/seu-repo)
-> 🔹 Pequena descrição do projeto  
+🔹 **[Projeto 1](https://github.com/seu-repo)** — Pequena descrição do projeto.  
+🔹 **[Projeto 2](https://github.com/seu-repo)** — Pequena descrição do projeto.  
 
-### 🔹 [📂 Projeto 2](https://github.com/seu-repo)
-> 🔹 Pequena descrição do projeto  
-
-📍 Veja mais no meu repositório 👉 [Meus projetos](https://github.com/srlzinn?tab=repositories)  
+📍 Veja mais projetos 👉 [Meus repositórios](https://github.com/srlzinn?tab=repositories)
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srlzinn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -58,17 +38,17 @@
 </div>
 
 📈 **Níveis de contribuição:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srlzinn&theme=dracula)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srlzinn&theme=dracula)
 
 ---
 
-## 📬 Contato & Redes Sociais  
+## 📬 Contato & Redes Sociais
 
 <div align="center">
-  <a href="https://www.instagram.com/calu_zin/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/calu_zin/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/lucca-galeno-cordeiro-a175502a8/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/lucca-galeno-cordeiro-a175502a8/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:seuemail@gmail.com">
@@ -81,5 +61,3 @@
 ### 🚀 Sempre aprendendo & evoluindo!  
 
 ![Snake animation](https://github.com/srlzinn/srlzinn/blob/output/github-contribution-grid-snake.svg)
-
-
