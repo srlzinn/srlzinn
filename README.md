@@ -60,6 +60,6 @@ Contato & Redes Sociais
 
 ---
 
-### 🚀 Sempre aprendendo & evoluindo!  
+Sempre aprendendo & evoluindo!  
 
 ![Snake animation](https://github.com/srlzinn/srlzinn/blob/output/github-contribution-grid-snake.svg)
