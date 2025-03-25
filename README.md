@@ -23,8 +23,8 @@
 
 ## 📌 Projetos Destacados
 
-🔹 **[Projeto 1](https://github.com/srlzinn)** — Pequena descrição do projeto.  
-🔹 **[Projeto 2](https://github.com/srlzinn)** — Pequena descrição do projeto.  
+🔹 **[Projeto 1](https://github.com/seu-repo)** — Pequena descrição do projeto.  
+🔹 **[Projeto 2](https://github.com/seu-repo)** — Pequena descrição do projeto.  
 
 📍 Veja mais projetos 👉 [Meus repositórios](https://github.com/srlzinn?tab=repositories)
 
@@ -33,12 +33,10 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srlzinn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srlzinn&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srlzinn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srlzinn&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=srlzinn&theme=tokyonight"/>
 </div>
-
-📈 **Níveis de contribuição:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srlzinn&theme=dracula)
 
 ---
 
@@ -62,7 +60,6 @@
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srlzinn/srlzinn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srlzinn/srlzinn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srlzinn/srlzinn/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srlzinn/srlzinn/output/github-contribution-grid-snake.svg"> 
 </picture>
-
