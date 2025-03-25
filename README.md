@@ -23,8 +23,8 @@
 
 ## 📌 Projetos Destacados
 
-🔹 **[Projeto 1](https://github.com/seu-repo)** — Pequena descrição do projeto.  
-🔹 **[Projeto 2](https://github.com/seu-repo)** — Pequena descrição do projeto.  
+🔹 **[Projeto 1](https://github.com/srlzinn)** — Pequena descrição do projeto.  
+🔹 **[Projeto 2](https://github.com/srlzinn)** — Pequena descrição do projeto.  
 
 📍 Veja mais projetos 👉 [Meus repositórios](https://github.com/srlzinn?tab=repositories)
 
@@ -60,4 +60,9 @@
 
 ### 🚀 Sempre aprendendo & evoluindo!  
 
-![Snake animation](https://github.com/srlzinn/srlzinn/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srlzinn/srlzinn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srlzinn/srlzinn/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srlzinn/srlzinn/output/github-contribution-grid-snake.svg"> 
+</picture>
+
