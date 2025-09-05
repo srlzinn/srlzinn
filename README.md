@@ -43,21 +43,6 @@
 <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=BC13FE"/>
 
 </div>
-
----
-
-## 📌 Projetos em Destaque
-<div align="center">
-
-**VetGo** – Sistema de gestão veterinária  
-[🔗 GitHub](https://github.com/Luccagaleno/VetGo)  
-
-**Rotavam** – Plataforma web em Vue.js  
-[🔗 GitHub](https://github.com/Luccagaleno/Rotavam)  
-
-**App Flutter** – App com autenticação via API Laravel  
-[🔗 GitHub](https://github.com/Luccagaleno/app_flutter)  
-
 </div>
 
 ---
