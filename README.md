@@ -55,7 +55,7 @@ Busco me tornar um **Desenvolvedor Full Stack** capaz de projetar, implementar e
 
 ## 📬 Contato & Redes
 <div align="center">
-<a href="https://www.instagram.com/calu_zin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=0099FF"/></a>
+<a href="https://www.instagram.com/llucca.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=0099FF"/></a>
 <a href="https://www.linkedin.com/in/lucca-galeno-cordeiro-a175502a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0099FF"/></a>
 <a href="mailto:luccagaleno01@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=0099FF"/></a>
 </div>
